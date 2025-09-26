@@ -15,4 +15,5 @@ elif x>=0:
     print('李孟你别乱用'+name+'的名字')
 elif x<0:
     print('彩蛋')
+
 input('请按回车键退出')
